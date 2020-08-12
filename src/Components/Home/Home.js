@@ -8,7 +8,7 @@ const Home = () => {
         <div id="home" className="header">
                 <div className="overlay"></div>
                 <video playsInline autoPlay muted>
-                  <source id="video" src="./images/Paint - 4043.mp4" type="video/mp4"></source>
+                  <source id="video" src="/images/Paint - 4043.mp4" type="video/mp4"></source>
                 </video>
                 <div className="container h-100">
                   <div className="d-flex h-100 text-center align-items-center">
