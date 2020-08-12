@@ -2,7 +2,7 @@
     {
       "id": "1",
       "name": "House Hunter Real Estate App",
-      "image":"./images/architecture-1477041_960_720.webp",
+      "image":"/images/architecture-1477041_960_720.webp",
       "languages": "HTML / CSS / JavaScript / MySql / Node.js",
       "github": "https://github.com/dwashburn8/House-Hunter-App",
       "deployed": "https://vast-bayou-08421.herokuapp.com/login"
