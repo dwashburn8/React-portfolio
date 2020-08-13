@@ -16,6 +16,7 @@ const App = () => {
         <div>
       < NavBar />
       <Route exact path="/" component={Home} />
+      <Route path="/React-portfolio" component={Home} />
       <Route path="/about" component={About} />
       <Route path="/portfolio" component={Wrapper} />
       <Route path="/contact" component={Contact} />
