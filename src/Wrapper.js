@@ -14,7 +14,7 @@ class Wrapper extends React.Component {
                 <div className="header">
                     <div className=""></div>
                     <video playsInline autoPlay muted >
-                        <source id="video" src="./images/Ink - 42151.mp4" type="video/mp4"></source>
+                        <source id="video" src={process.env.PUBLIC_URL + "/images/Ink - 42151.mp4"} type="video/mp4"></source>
                     </video>
                     <div className="container h-100">
                         <div className="d-flex h-100 text-center align-items-center">

@@ -9,7 +9,7 @@ const About = () => {
             <div className="header">
                 <div className=""></div>
                 <video playsInline autoPlay muted >
-                    <source id="video" src="./images/Grunge - 39410.mp4" type="video/mp4"></source>
+                    <source id="video" src={process.env.PUBLIC_URL + "/images/Grunge - 39410.mp4"} type="video/mp4"></source>
                 </video>
                 <div className="container h-100">
                     <div className="d-flex h-100 text-center align-items-center">
@@ -28,7 +28,7 @@ const About = () => {
                     <div className="col-sm-12 text-center">
                         <div className="card-body text-center">
                             <div>
-                                <img className="rounded-circle" src="./images/Head Shot 8.JPG" height="400px" width="450px" alt=""></img>
+                                <img className="rounded-circle" src={process.env.PUBLIC_URL + "/images/Head Shot 8.JPG"} height="400px" width="450px" alt=""></img>
                             </div>
 
                             <br></br>

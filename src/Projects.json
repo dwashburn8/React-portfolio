@@ -11,7 +11,7 @@
     {
       "id": "2",
       "name": "React Simpsons Directory",
-      "image": "./images/maxresdefault.jpg",
+      "image": "/images/maxresdefault.jpg",
       "languages": "React.js / CSS3",
       "github": "https://github.com/dwashburn8/React-Employee-Directory",
       "deployed":"https://dwashburn8.github.io/React-Employee-Directory/"
@@ -19,7 +19,7 @@
     {
       "id": "3",
       "name": "Budget Tracker",
-      "image":"./images/organization-2478211_960_720.webp",
+      "image":"/images/organization-2478211_960_720.webp",
       "languages": "JavaScript / HTML5 / CSS3 / Node.js",
       "github": "https://github.com/dwashburn8/Budget-Tracker",
       "deployed":"https://peaceful-stream-32564.herokuapp.com/"
@@ -27,7 +27,7 @@
     {
         "id": "4",
         "name": "Fitness Tracker",
-        "image":"./images/physiotherapy-595529_960_720.webp",
+        "image":"/images/physiotherapy-595529_960_720.webp",
         "languages": "HTML5 / CSS3 / JavaScript / MongooseDB / Node.",
         "github": "https://github.com/dwashburn8/Workout-Tracker",
         "deployed":"https://serene-lake-33517.herokuapp.com/"
@@ -35,7 +35,7 @@
       {
         "id": "5",
         "name": "Employee Manager",
-        "image": "./images/paper-3213924_960_720.webp",
+        "image": "/images/paper-3213924_960_720.webp",
         "languages": "Node.js / MySql",
         "github": "https://github.com/dwashburn8/employee-tracker",
         "deployed":"/portfolio"
@@ -43,7 +43,7 @@
       {
         "id": "6",
         "name": "Eat Da Burger",
-        "image": "./images/burger-2041192__340.webp",
+        "image": "/images/burger-2041192__340.webp",
         "languages": "HTML5 / Bootstrap / JavaScript / Node.js / MySql",
         "github": "https://github.com/dwashburn8/burger",
         "deployed":"https://boiling-wildwood-73625.herokuapp.com/"
